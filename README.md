@@ -1,30 +1,17 @@
 # Secondary School Study-Resources
 Welcome to the Study-Resources provided by Motivation Communtiy. We currently only added US (AP / SAT) and UK (GCSE / A-Level) Resources however you are more than welcome to add more study resources and share it with everyone !
 
-- UK Chemistry GCSE
+Currently we are offering study resources for the following subject:
 
-    **Triple (remember to choose the board)**
+## sciences
+1) Chemistry
+2) Physics
+3) Biology
+4) Maths
 
-    [GCSE Chemistry (Single Science) - AQA - BBC Bitesize](https://www.bbc.co.uk/bitesize/examspecs/z8xtmnb)
+## languages
+1) Chinese
+2) English
 
-    **Combined Science (remember to choose the board)**
-
-    [GCSE Combined Science - BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zp266yc)
-
-    **Seneca → Spaced repetition technique**
-
-    [Learn A Levels, GCSE, KS3 & KS2 2x Faster with Seneca](https://app.senecalearning.com/dashboard/courses/your-courses)
-
-- American AP Exam
-
-    **Guide → techniques of studying AP Chemistry**
-
-    [The Expert's Guide to the AP Chemistry Exam](https://blog.prepscholar.com/ap-chemistry-exam)
-
-    **AP chemistry Exam → Practice Questions**
-
-    [AP® Chemistry | Practice | Albert](https://www.albert.io/ap-chemistry)
-
-    **Seneca → Spaced repetition technique**
-
-    [Learn A Levels, GCSE, KS3 & KS2 2x Faster with Seneca](https://app.senecalearning.com/dashboard/courses/your-courses)
+## Others
+1) Politics
