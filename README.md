@@ -1,4 +1,4 @@
-# Study-Resources
+# Secondary School Study-Resources
 Welcome to the Study-Resources provided by Motivation Communtiy. We currently only added US (AP / SAT) and UK (GCSE / A-Level) Resources however you are more than welcome to add more study resources and share it with everyone !
 
 - UK Chemistry GCSE
